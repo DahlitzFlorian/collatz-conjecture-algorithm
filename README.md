@@ -3,3 +3,4 @@ This repository includes solutions for the 'Collatz Conjecture'-problem in diffe
 
 ## Languages ##
 * JavaScript
+* Python
