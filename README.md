@@ -7,6 +7,7 @@ The sample files for each language have the prefix 'sample_' followed
 by the language name.
 
 ## Languages ##
+* C++
 * Java
 * JavaScript
 * PHP
